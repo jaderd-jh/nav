@@ -3,11 +3,11 @@ import { IConfig } from './src/types'
 const c: IConfig = {
   // Deployment language - 部署语言
   // zh-CN | en
-  language: 'en',
+  language: 'zh-CN',
 
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/jaderd-jh/nav',
 
   // Deployment branch name
   // 部署分支
@@ -33,7 +33,7 @@ const c: IConfig = {
 
   // Site title
   // 网站标题
-  title: '发现导航 - 精选实用导航网站',
+  title: 'jhqn',
 
   // Site description
   // 网站描述
