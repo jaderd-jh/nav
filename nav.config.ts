@@ -37,7 +37,7 @@ const c: IConfig = {
 
   // Site description
   // 网站描述
-  description: '发现导航 - 精选实用导航网站',
+  description: '导航网站',
 
   // Site keywords
   // 网站关键字
