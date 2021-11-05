@@ -45,7 +45,7 @@ const c: IConfig = {
 
   // Default theme: Light | Sim | Side | App | Shortcut
   // 默认主题: Light | Sim | Side | App | Shortcut
-  theme: 'Light',
+  theme: 'Side',
 
   // The content at the bottom of the website, copyright information, record number, can be HTML
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
